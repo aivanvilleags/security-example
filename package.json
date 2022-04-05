@@ -1,0 +1,23 @@
+{
+  "name": "security-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aivanvilleags/security-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aivanvilleags/security-example/issues"
+  },
+  "homepage": "https://github.com/aivanvilleags/security-example#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
